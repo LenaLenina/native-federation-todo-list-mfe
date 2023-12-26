@@ -5,7 +5,7 @@ module.exports = withNativeFederation({
   name: 'mfe',
 
   exposes: {
-    './Component': './projects/mfe/src/app/app.component.ts',
+    './TodoListModule': './projects/mfe/src/app/todo-list/todo-list.module.ts',
   },
 
   shared: {
