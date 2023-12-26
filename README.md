@@ -10,4 +10,4 @@ ng new mfe --create-application=false
 
 ng g application mfe --routing --style=scss
 
-ng add @angular-architects/native-federation@16.1.0 --project mfe --port 4201 --type remote
+ng add @angular-architects/native-federation@16.2.0 --project mfe --port 4201 --type remote
