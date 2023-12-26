@@ -15,3 +15,7 @@ ng add @angular-architects/native-federation@16.2.0 --project mfe --port 4201 --
 ng serve mfe -o
 
 ng build mfe
+
+## Deployed application
+
+https://native-federation-todo-list-mfe.netlify.app/
